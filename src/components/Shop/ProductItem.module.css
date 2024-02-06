@@ -19,9 +19,11 @@
 
 .item p {
   color: #3a3a3a;
+  margin: 1rem;
 }
 
 .actions {
   display: flex;
   justify-content: flex-end;
+  margin: 1rem;
 }
